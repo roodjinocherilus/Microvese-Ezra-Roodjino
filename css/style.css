@@ -1,0 +1,10 @@
+body {
+    background: rgb(221, 213, 221);
+    width: 100%;
+}
+ 
+.block {
+    width: 50%;
+    margin: auto;
+    position: relative;
+}
